@@ -2,6 +2,7 @@
 <h3 align="center">A passionate web developer from France</h3>
 
 - 📫 How to reach me **nguyen-j@hotmail.fr**
+- 🔭 I’m currently working on learning PHP
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
